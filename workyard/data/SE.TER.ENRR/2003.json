@@ -1,0 +1,3234 @@
+[
+  {
+    "page": 1,
+    "pages": 3,
+    "per_page": "100",
+    "total": 248
+  },
+  [
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "1A",
+        "value": "Arab World"
+      },
+      "value": "19.5711307525635",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "S3",
+        "value": "Caribbean small states"
+      },
+      "value": "16.2759399414063",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "B8",
+        "value": "Central Europe and the Baltics"
+      },
+      "value": "50.1549301147461",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "Z4",
+        "value": "East Asia & Pacific (all income levels)"
+      },
+      "value": "20.3106708526611",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "4E",
+        "value": "East Asia & Pacific (developing only)"
+      },
+      "value": "16.5914096832275",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XC",
+        "value": "Euro area"
+      },
+      "value": "56.2461204528809",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "Z7",
+        "value": "Europe & Central Asia (all income levels)"
+      },
+      "value": "51.8943901062012",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "7E",
+        "value": "Europe & Central Asia (developing only)"
+      },
+      "value": "36.6930084228516",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "EU",
+        "value": "European Union"
+      },
+      "value": "56.0009613037109",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "F1",
+        "value": "Fragile and conflict affected situations"
+      },
+      "value": "8.15892028808594",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XE",
+        "value": "Heavily indebted poor countries (HIPC)"
+      },
+      "value": "4.23844003677368",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XD",
+        "value": "High income"
+      },
+      "value": "63.7791404724121",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XR",
+        "value": "High income: nonOECD"
+      },
+      "value": "56.2146110534668",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XS",
+        "value": "High income: OECD"
+      },
+      "value": "65.749870300293",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ZJ",
+        "value": "Latin America & Caribbean (all income levels)"
+      },
+      "value": "27.3319301605225",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XJ",
+        "value": "Latin America & Caribbean (developing only)"
+      },
+      "value": "26.6413192749023",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XL",
+        "value": "Least developed countries: UN classification"
+      },
+      "value": "4.44366979598999",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XO",
+        "value": "Low & middle income"
+      },
+      "value": "15.1288204193115",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XM",
+        "value": "Low income"
+      },
+      "value": "4.94700002670288",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XN",
+        "value": "Lower middle income"
+      },
+      "value": "13.137809753418",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ZQ",
+        "value": "Middle East & North Africa (all income levels)"
+      },
+      "value": "21.5972499847412",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XQ",
+        "value": "Middle East & North Africa (developing only)"
+      },
+      "value": "20.8898391723633",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XP",
+        "value": "Middle income"
+      },
+      "value": "16.7690906524658",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XU",
+        "value": "North America"
+      },
+      "value": "78.5992126464844",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XY",
+        "value": "Not classified"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "OE",
+        "value": "OECD members"
+      },
+      "value": "57.5848388671875",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "S4",
+        "value": "Other small states"
+      },
+      "value": "5.68350982666016",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "S2",
+        "value": "Pacific island small states"
+      },
+      "value": "9.48523044586182",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "S1",
+        "value": "Small states"
+      },
+      "value": "8.6154203414917",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "8S",
+        "value": "South Asia"
+      },
+      "value": "9.26016998291016",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ZG",
+        "value": "Sub-Saharan Africa (all income levels)"
+      },
+      "value": "5.43752002716064",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ZF",
+        "value": "Sub-Saharan Africa (developing only)"
+      },
+      "value": "5.43872976303101",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "XT",
+        "value": "Upper middle income"
+      },
+      "value": "20.7688694000244",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "1W",
+        "value": "World"
+      },
+      "value": "22.5283107757568",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AF",
+        "value": "Afghanistan"
+      },
+      "value": "1.27942",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AL",
+        "value": "Albania"
+      },
+      "value": "15.81263",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "value": "17.744",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AS",
+        "value": "American Samoa"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AD",
+        "value": "Andorra"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AO",
+        "value": "Angola"
+      },
+      "value": "3.19307",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AG",
+        "value": "Antigua and Barbuda"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "value": "64.86005",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AM",
+        "value": "Armenia"
+      },
+      "value": "36.20652",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AW",
+        "value": "Aruba"
+      },
+      "value": "26.75628",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AU",
+        "value": "Australia"
+      },
+      "value": "71.98739",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AT",
+        "value": "Austria"
+      },
+      "value": "45.70464",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AZ",
+        "value": "Azerbaijan"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BS",
+        "value": "Bahamas, The"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BH",
+        "value": "Bahrain"
+      },
+      "value": "27.6243",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BD",
+        "value": "Bangladesh"
+      },
+      "value": "6.15993",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BB",
+        "value": "Barbados"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BY",
+        "value": "Belarus"
+      },
+      "value": "61.87503",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BE",
+        "value": "Belgium"
+      },
+      "value": "60.17912",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BZ",
+        "value": "Belize"
+      },
+      "value": "16.01254",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BJ",
+        "value": "Benin"
+      },
+      "value": "5.81991",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BM",
+        "value": "Bermuda"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BT",
+        "value": "Bhutan"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "value": "39.59124",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BA",
+        "value": "Bosnia and Herzegovina"
+      },
+      "value": "25.0706",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BW",
+        "value": "Botswana"
+      },
+      "value": "7.50668",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BN",
+        "value": "Brunei Darussalam"
+      },
+      "value": "15.48998",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BG",
+        "value": "Bulgaria"
+      },
+      "value": "41.51951",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BF",
+        "value": "Burkina Faso"
+      },
+      "value": "1.60085",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "BI",
+        "value": "Burundi"
+      },
+      "value": "1.8572",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CV",
+        "value": "Cabo Verde"
+      },
+      "value": "4.54182",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KH",
+        "value": "Cambodia"
+      },
+      "value": "2.85997",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "value": "5.08996",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KY",
+        "value": "Cayman Islands"
+      },
+      "value": "23.27515",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CF",
+        "value": "Central African Republic"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TD",
+        "value": "Chad"
+      },
+      "value": "0.92217",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "JG",
+        "value": "Channel Islands"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CL",
+        "value": "Chile"
+      },
+      "value": "42.71669",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "value": "14.96737",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CO",
+        "value": "Colombia"
+      },
+      "value": "24.5713",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KM",
+        "value": "Comoros"
+      },
+      "value": "2.98813",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CD",
+        "value": "Congo, Dem. Rep."
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CG",
+        "value": "Congo, Rep."
+      },
+      "value": "3.88115",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CR",
+        "value": "Costa Rica"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "HR",
+        "value": "Croatia"
+      },
+      "value": "39.58246",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CU",
+        "value": "Cuba"
+      },
+      "value": "32.58655",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CW",
+        "value": "Curacao"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CY",
+        "value": "Cyprus"
+      },
+      "value": "31.96361",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CZ",
+        "value": "Czech Republic"
+      },
+      "value": "37.30648",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "DK",
+        "value": "Denmark"
+      },
+      "value": "67.53728",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "DJ",
+        "value": "Djibouti"
+      },
+      "value": "1.27423",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "DM",
+        "value": "Dominica"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "DO",
+        "value": "Dominican Republic"
+      },
+      "value": "33.32915",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "value": "28.98658",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SV",
+        "value": "El Salvador"
+      },
+      "value": "20.70612",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GQ",
+        "value": "Equatorial Guinea"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ER",
+        "value": "Eritrea"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "EE",
+        "value": "Estonia"
+      },
+      "value": "65.28051",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "value": "2.31394",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "FO",
+        "value": "Faeroe Islands"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "FJ",
+        "value": "Fiji"
+      },
+      "value": "15.76992",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "value": "87.08364",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "value": "54.1899",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PF",
+        "value": "French Polynesia"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GA",
+        "value": "Gabon"
+      },
+      "value": "8.5306",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GM",
+        "value": "Gambia, The"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GE",
+        "value": "Georgia"
+      },
+      "value": "42.81473",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GR",
+        "value": "Greece"
+      },
+      "value": "72.91338",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GL",
+        "value": "Greenland"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GD",
+        "value": "Grenada"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GU",
+        "value": "Guam"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GT",
+        "value": "Guatemala"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GN",
+        "value": "Guinea"
+      },
+      "value": "2.15226",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GW",
+        "value": "Guinea-Bissau"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GY",
+        "value": "Guyana"
+      },
+      "value": "7.29253",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "HT",
+        "value": "Haiti"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "HN",
+        "value": "Honduras"
+      },
+      "value": "17.00513",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "HK",
+        "value": "Hong Kong SAR, China"
+      },
+      "value": "31.16715",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "HU",
+        "value": "Hungary"
+      },
+      "value": "52.28572",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "IS",
+        "value": "Iceland"
+      },
+      "value": "62.16292",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "value": "10.88897",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ID",
+        "value": "Indonesia"
+      },
+      "value": "16.29826",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "IR",
+        "value": "Iran, Islamic Rep."
+      },
+      "value": "19.87151",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "IQ",
+        "value": "Iraq"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "IE",
+        "value": "Ireland"
+      },
+      "value": "54.18706",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "IM",
+        "value": "Isle of Man"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "IL",
+        "value": "Israel"
+      },
+      "value": "56.77512",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "IT",
+        "value": "Italy"
+      },
+      "value": "57.75019",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "JM",
+        "value": "Jamaica"
+      },
+      "value": "21.63609",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "JP",
+        "value": "Japan"
+      },
+      "value": "51.83603",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "value": "34.69397",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KZ",
+        "value": "Kazakhstan"
+      },
+      "value": "45.17211",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KI",
+        "value": "Kiribati"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KP",
+        "value": "Korea, Dem. Rep."
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "value": "87.76533",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KV",
+        "value": "Kosovo"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KW",
+        "value": "Kuwait"
+      },
+      "value": "23.08873",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KG",
+        "value": "Kyrgyz Republic"
+      },
+      "value": "40.77013",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LA",
+        "value": "Lao PDR"
+      },
+      "value": "4.9338",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LV",
+        "value": "Latvia"
+      },
+      "value": "72.40145",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LB",
+        "value": "Lebanon"
+      },
+      "value": "43.03044",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LS",
+        "value": "Lesotho"
+      },
+      "value": "2.95755",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LR",
+        "value": "Liberia"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LY",
+        "value": "Libya"
+      },
+      "value": "60.87731",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LI",
+        "value": "Liechtenstein"
+      },
+      "value": "20.70588",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LT",
+        "value": "Lithuania"
+      },
+      "value": "68.0175",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LU",
+        "value": "Luxembourg"
+      },
+      "value": "12.19145",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MO",
+        "value": "Macao SAR, China"
+      },
+      "value": "75.89115",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MK",
+        "value": "Macedonia, FYR"
+      },
+      "value": "27.44383",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MG",
+        "value": "Madagascar"
+      },
+      "value": "2.36969",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "value": "0.42258",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MY",
+        "value": "Malaysia"
+      },
+      "value": "30.52997",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MV",
+        "value": "Maldives"
+      },
+      "value": "0.22137",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ML",
+        "value": "Mali"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MT",
+        "value": "Malta"
+      },
+      "value": "28.29759",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MH",
+        "value": "Marshall Islands"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MR",
+        "value": "Mauritania"
+      },
+      "value": "3.16256",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MU",
+        "value": "Mauritius"
+      },
+      "value": "16.556",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "value": "21.94156",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "FM",
+        "value": "Micronesia, Fed. Sts."
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MD",
+        "value": "Moldova"
+      },
+      "value": "33.29884",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MC",
+        "value": "Monaco"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MN",
+        "value": "Mongolia"
+      },
+      "value": "37.98429",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ME",
+        "value": "Montenegro"
+      },
+      "value": "16.84081",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "value": "10.70623",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "value": "0.90611",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MM",
+        "value": "Myanmar"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NA",
+        "value": "Namibia"
+      },
+      "value": "6.16231",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NP",
+        "value": "Nepal"
+      },
+      "value": "5.44491",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NL",
+        "value": "Netherlands"
+      },
+      "value": "55.87475",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NC",
+        "value": "New Caledonia"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NZ",
+        "value": "New Zealand"
+      },
+      "value": "68.93803",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NI",
+        "value": "Nicaragua"
+      },
+      "value": "17.85635",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NE",
+        "value": "Niger"
+      },
+      "value": "0.98241",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "value": "9.64106",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MP",
+        "value": "Northern Mariana Islands"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "NO",
+        "value": "Norway"
+      },
+      "value": "79.11961",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "OM",
+        "value": "Oman"
+      },
+      "value": "15.11176",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "value": "2.60502",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PW",
+        "value": "Palau"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PA",
+        "value": "Panama"
+      },
+      "value": "44.00233",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PG",
+        "value": "Papua New Guinea"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "value": "24.49355",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PE",
+        "value": "Peru"
+      },
+      "value": "31.5712",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PH",
+        "value": "Philippines"
+      },
+      "value": "29.08678",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "value": "59.83943",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PT",
+        "value": "Portugal"
+      },
+      "value": "54.81727",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PR",
+        "value": "Puerto Rico"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "QA",
+        "value": "Qatar"
+      },
+      "value": "15.33608",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "RO",
+        "value": "Romania"
+      },
+      "value": "38.03346",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "value": "66.50214",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "value": "2.20443",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "WS",
+        "value": "Samoa"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SM",
+        "value": "San Marino"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ST",
+        "value": "Sao Tome and Principe"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SA",
+        "value": "Saudi Arabia"
+      },
+      "value": "26.46539",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "RS",
+        "value": "Serbia"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SC",
+        "value": "Seychelles"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SL",
+        "value": "Sierra Leone"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SG",
+        "value": "Singapore"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SX",
+        "value": "Sint Maarten (Dutch part)"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SK",
+        "value": "Slovak Republic"
+      },
+      "value": "33.9356",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SI",
+        "value": "Slovenia"
+      },
+      "value": "69.14746",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SB",
+        "value": "Solomon Islands"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SO",
+        "value": "Somalia"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SS",
+        "value": "South Sudan"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "value": "64.06026",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LK",
+        "value": "Sri Lanka"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "KN",
+        "value": "St. Kitts and Nevis"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "LC",
+        "value": "St. Lucia"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "MF",
+        "value": "St. Martin (French part)"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "VC",
+        "value": "St. Vincent and the Grenadines"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SD",
+        "value": "Sudan"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SR",
+        "value": "Suriname"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SZ",
+        "value": "Swaziland"
+      },
+      "value": "4.56288",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SE",
+        "value": "Sweden"
+      },
+      "value": "81.44551",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "CH",
+        "value": "Switzerland"
+      },
+      "value": "43.94383",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "SY",
+        "value": "Syrian Arab Republic"
+      },
+      "value": "12.98673",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TJ",
+        "value": "Tajikistan"
+      },
+      "value": "19.10845",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "value": "0.9284",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TH",
+        "value": "Thailand"
+      },
+      "value": "40.88762",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TL",
+        "value": "Timor-Leste"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TG",
+        "value": "Togo"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TO",
+        "value": "Tonga"
+      },
+      "value": "6.348",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TT",
+        "value": "Trinidad and Tobago"
+      },
+      "value": "8.77808",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "value": "25.9802",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkey"
+      },
+      "value": "29.83509",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TM",
+        "value": "Turkmenistan"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TC",
+        "value": "Turks and Caicos Islands"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "TV",
+        "value": "Tuvalu"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "value": "3.69115",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "UA",
+        "value": "Ukraine"
+      },
+      "value": "60.49191",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "AE",
+        "value": "United Arab Emirates"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "GB",
+        "value": "United Kingdom"
+      },
+      "value": "61.65748",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "value": "80.66302",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "UY",
+        "value": "Uruguay"
+      },
+      "value": "41.1374",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "UZ",
+        "value": "Uzbekistan"
+      },
+      "value": "14.07078",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "VU",
+        "value": "Vanuatu"
+      },
+      "value": "4.69127",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "VE",
+        "value": "Venezuela, RB"
+      },
+      "value": "39.62945",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "VN",
+        "value": "Vietnam"
+      },
+      "value": "10.00931",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "VI",
+        "value": "Virgin Islands (U.S.)"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "PS",
+        "value": "West Bank and Gaza"
+      },
+      "value": "32.29959",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "YE",
+        "value": "Yemen, Rep."
+      },
+      "value": "10.03606",
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    },
+    {
+      "indicator": {
+        "id": "SE.TER.ENRR",
+        "value": "School enrollment, tertiary (% gross)"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "value": null,
+      "decimal": "0",
+      "date": "2003"
+    }
+  ]
+]

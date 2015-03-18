@@ -1,0 +1,3234 @@
+[
+  {
+    "page": 1,
+    "pages": 3,
+    "per_page": "100",
+    "total": 248
+  },
+  [
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "1A",
+        "value": "Arab World"
+      },
+      "value": "250504422",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "S3",
+        "value": "Caribbean small states"
+      },
+      "value": "6187109",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "B8",
+        "value": "Central Europe and the Baltics"
+      },
+      "value": "109913216",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "Z4",
+        "value": "East Asia & Pacific (all income levels)"
+      },
+      "value": "1937308013",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "4E",
+        "value": "East Asia & Pacific (developing only)"
+      },
+      "value": "1712777280",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XC",
+        "value": "Euro area"
+      },
+      "value": "313279377",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "Z7",
+        "value": "Europe & Central Asia (all income levels)"
+      },
+      "value": "855641174",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "7E",
+        "value": "Europe & Central Asia (developing only)"
+      },
+      "value": "253157008",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "EU",
+        "value": "European Union"
+      },
+      "value": "483998374",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "F1",
+        "value": "Fragile and conflict affected situations"
+      },
+      "value": "293108144",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XE",
+        "value": "Heavily indebted poor countries (HIPC)"
+      },
+      "value": "412249884",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XD",
+        "value": "High income"
+      },
+      "value": "1178308065",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XR",
+        "value": "High income: nonOECD"
+      },
+      "value": "228176140",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XS",
+        "value": "High income: OECD"
+      },
+      "value": "950131925",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ZJ",
+        "value": "Latin America & Caribbean (all income levels)"
+      },
+      "value": "485244174",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XJ",
+        "value": "Latin America & Caribbean (developing only)"
+      },
+      "value": "461719271",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XL",
+        "value": "Least developed countries: UN classification"
+      },
+      "value": "584839656",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XO",
+        "value": "Low & middle income"
+      },
+      "value": "4519642249",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XM",
+        "value": "Low income"
+      },
+      "value": "564620326",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XN",
+        "value": "Lower middle income"
+      },
+      "value": "1911803266",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ZQ",
+        "value": "Middle East & North Africa (all income levels)"
+      },
+      "value": "283211762",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XQ",
+        "value": "Middle East & North Africa (developing only)"
+      },
+      "value": "251577074",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XP",
+        "value": "Middle income"
+      },
+      "value": "3955021923",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XU",
+        "value": "North America"
+      },
+      "value": "295691746",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XY",
+        "value": "Not classified"
+      },
+      "value": null,
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "OE",
+        "value": "OECD members"
+      },
+      "value": "1114375857",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "S4",
+        "value": "Other small states"
+      },
+      "value": "14775587",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "S2",
+        "value": "Pacific island small states"
+      },
+      "value": "1830581",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "S1",
+        "value": "Small states"
+      },
+      "value": "22793277",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "8S",
+        "value": "South Asia"
+      },
+      "value": "1259426817",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ZG",
+        "value": "Sub-Saharan Africa (all income levels)"
+      },
+      "value": "581426628",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ZF",
+        "value": "Sub-Saharan Africa (developing only)"
+      },
+      "value": "580984799",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "XT",
+        "value": "Upper middle income"
+      },
+      "value": "2043218657",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "1W",
+        "value": "World"
+      },
+      "value": "5697950314",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AF",
+        "value": "Afghanistan"
+      },
+      "value": "17586073",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AL",
+        "value": "Albania"
+      },
+      "value": "3187784",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "value": "29315463",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AS",
+        "value": "American Samoa"
+      },
+      "value": "52874",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AD",
+        "value": "Andorra"
+      },
+      "value": "63854",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AO",
+        "value": "Angola"
+      },
+      "value": "12104952",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AG",
+        "value": "Antigua and Barbuda"
+      },
+      "value": "68349",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "value": "34833168",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AM",
+        "value": "Armenia"
+      },
+      "value": "3223173",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AW",
+        "value": "Aruba"
+      },
+      "value": "80326",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AU",
+        "value": "Australia"
+      },
+      "value": "18072000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AT",
+        "value": "Austria"
+      },
+      "value": "7948278",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AZ",
+        "value": "Azerbaijan"
+      },
+      "value": "7685000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BS",
+        "value": "Bahamas, The"
+      },
+      "value": "280050",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BH",
+        "value": "Bahrain"
+      },
+      "value": "563730",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BD",
+        "value": "Bangladesh"
+      },
+      "value": "119869585",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BB",
+        "value": "Barbados"
+      },
+      "value": "263165",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BY",
+        "value": "Belarus"
+      },
+      "value": "10194000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BE",
+        "value": "Belgium"
+      },
+      "value": "10136811",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BZ",
+        "value": "Belize"
+      },
+      "value": "206962",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BJ",
+        "value": "Benin"
+      },
+      "value": "5985658",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BM",
+        "value": "Bermuda"
+      },
+      "value": "59746",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BT",
+        "value": "Bhutan"
+      },
+      "value": "509105",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "value": "7635362",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BA",
+        "value": "Bosnia and Herzegovina"
+      },
+      "value": "3520996",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BW",
+        "value": "Botswana"
+      },
+      "value": "1583453",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "value": "161890816",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BN",
+        "value": "Brunei Darussalam"
+      },
+      "value": "295003",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BG",
+        "value": "Bulgaria"
+      },
+      "value": "8406067",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BF",
+        "value": "Burkina Faso"
+      },
+      "value": "10089876",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "BI",
+        "value": "Burundi"
+      },
+      "value": "6209923",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CV",
+        "value": "Cabo Verde"
+      },
+      "value": "399477",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KH",
+        "value": "Cambodia"
+      },
+      "value": "10769198",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CM",
+        "value": "Cameroon"
+      },
+      "value": "13929575",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "value": "29354000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KY",
+        "value": "Cayman Islands"
+      },
+      "value": "31672",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CF",
+        "value": "Central African Republic"
+      },
+      "value": "3275695",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TD",
+        "value": "Chad"
+      },
+      "value": "6980351",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "JG",
+        "value": "Channel Islands"
+      },
+      "value": "144050",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CL",
+        "value": "Chile"
+      },
+      "value": "14440103",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "value": "1204855000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CO",
+        "value": "Colombia"
+      },
+      "value": "36573895",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KM",
+        "value": "Comoros"
+      },
+      "value": "465895",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CD",
+        "value": "Congo, Dem. Rep."
+      },
+      "value": "42012524",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CG",
+        "value": "Congo, Rep."
+      },
+      "value": "2720633",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CR",
+        "value": "Costa Rica"
+      },
+      "value": "3478197",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CI",
+        "value": "Cote d'Ivoire"
+      },
+      "value": "14217430",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "HR",
+        "value": "Croatia"
+      },
+      "value": "4669000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CU",
+        "value": "Cuba"
+      },
+      "value": "10932013",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CW",
+        "value": "Curacao"
+      },
+      "value": null,
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CY",
+        "value": "Cyprus"
+      },
+      "value": "855389",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CZ",
+        "value": "Czech Republic"
+      },
+      "value": "10327253",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "DK",
+        "value": "Denmark"
+      },
+      "value": "5233373",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "DJ",
+        "value": "Djibouti"
+      },
+      "value": "663999",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "DM",
+        "value": "Dominica"
+      },
+      "value": "71367",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "DO",
+        "value": "Dominican Republic"
+      },
+      "value": "7977966",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "value": "11315800",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "value": "61168397",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SV",
+        "value": "El Salvador"
+      },
+      "value": "5748013",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GQ",
+        "value": "Equatorial Guinea"
+      },
+      "value": "441829",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ER",
+        "value": "Eritrea"
+      },
+      "value": "3407812",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "EE",
+        "value": "Estonia"
+      },
+      "value": "1436634",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ET",
+        "value": "Ethiopia"
+      },
+      "value": "57023519",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "FO",
+        "value": "Faeroe Islands"
+      },
+      "value": "44099",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "FJ",
+        "value": "Fiji"
+      },
+      "value": "775587",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "FI",
+        "value": "Finland"
+      },
+      "value": "5107790",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "value": "59540711",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PF",
+        "value": "French Polynesia"
+      },
+      "value": "215200",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GA",
+        "value": "Gabon"
+      },
+      "value": "1080477",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GM",
+        "value": "Gambia, The"
+      },
+      "value": "1065746",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GE",
+        "value": "Georgia"
+      },
+      "value": "4734000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "value": "81678051",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GH",
+        "value": "Ghana"
+      },
+      "value": "16760926",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GR",
+        "value": "Greece"
+      },
+      "value": "10634385",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GL",
+        "value": "Greenland"
+      },
+      "value": "55800",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GD",
+        "value": "Grenada"
+      },
+      "value": "100253",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GU",
+        "value": "Guam"
+      },
+      "value": "145562",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GT",
+        "value": "Guatemala"
+      },
+      "value": "9983861",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GN",
+        "value": "Guinea"
+      },
+      "value": "7837173",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GW",
+        "value": "Guinea-Bissau"
+      },
+      "value": "1139667",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GY",
+        "value": "Guyana"
+      },
+      "value": "728136",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "HT",
+        "value": "Haiti"
+      },
+      "value": "7838241",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "HN",
+        "value": "Honduras"
+      },
+      "value": "5591935",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "HK",
+        "value": "Hong Kong SAR, China"
+      },
+      "value": "6156100",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "HU",
+        "value": "Hungary"
+      },
+      "value": "10328965",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "IS",
+        "value": "Iceland"
+      },
+      "value": "267468",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "value": "955804355",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ID",
+        "value": "Indonesia"
+      },
+      "value": "194112556",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "IR",
+        "value": "Iran, Islamic Rep."
+      },
+      "value": "60468352",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "IQ",
+        "value": "Iraq"
+      },
+      "value": "20363138",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "IE",
+        "value": "Ireland"
+      },
+      "value": "3608841",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "IM",
+        "value": "Isle of Man"
+      },
+      "value": "72181",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "IL",
+        "value": "Israel"
+      },
+      "value": "5545000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "IT",
+        "value": "Italy"
+      },
+      "value": "56844303",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "JM",
+        "value": "Jamaica"
+      },
+      "value": "2480000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "JP",
+        "value": "Japan"
+      },
+      "value": "125439000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "value": "4195000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KZ",
+        "value": "Kazakhstan"
+      },
+      "value": "15815626",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KE",
+        "value": "Kenya"
+      },
+      "value": "27418077",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KI",
+        "value": "Kiribati"
+      },
+      "value": "76378",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KP",
+        "value": "Korea, Dem. Rep."
+      },
+      "value": "21763678",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KR",
+        "value": "Korea, Rep."
+      },
+      "value": "45092991",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KV",
+        "value": "Kosovo"
+      },
+      "value": "2029000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KW",
+        "value": "Kuwait"
+      },
+      "value": "1586123",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KG",
+        "value": "Kyrgyz Republic"
+      },
+      "value": "4560400",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LA",
+        "value": "Lao PDR"
+      },
+      "value": "4871472",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LV",
+        "value": "Latvia"
+      },
+      "value": "2485056",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LB",
+        "value": "Lebanon"
+      },
+      "value": "3033406",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LS",
+        "value": "Lesotho"
+      },
+      "value": "1753824",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LR",
+        "value": "Liberia"
+      },
+      "value": "2079921",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LY",
+        "value": "Libya"
+      },
+      "value": "4747619",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LI",
+        "value": "Liechtenstein"
+      },
+      "value": "30824",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LT",
+        "value": "Lithuania"
+      },
+      "value": "3629102",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LU",
+        "value": "Luxembourg"
+      },
+      "value": "408625",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MO",
+        "value": "Macao SAR, China"
+      },
+      "value": "398459",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MK",
+        "value": "Macedonia, FYR"
+      },
+      "value": "1967013",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MG",
+        "value": "Madagascar"
+      },
+      "value": "13452526",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MW",
+        "value": "Malawi"
+      },
+      "value": "9964065",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MY",
+        "value": "Malaysia"
+      },
+      "value": "20725374",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MV",
+        "value": "Maldives"
+      },
+      "value": "244965",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ML",
+        "value": "Mali"
+      },
+      "value": "8988853",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MT",
+        "value": "Malta"
+      },
+      "value": "370433",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MH",
+        "value": "Marshall Islands"
+      },
+      "value": "51020",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MR",
+        "value": "Mauritania"
+      },
+      "value": "2334388",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MU",
+        "value": "Mauritius"
+      },
+      "value": "1122457",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "value": "95392647",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "FM",
+        "value": "Micronesia, Fed. Sts."
+      },
+      "value": "107556",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MD",
+        "value": "Moldova"
+      },
+      "value": "3675099",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MC",
+        "value": "Monaco"
+      },
+      "value": "30700",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MN",
+        "value": "Mongolia"
+      },
+      "value": "2298063",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ME",
+        "value": "Montenegro"
+      },
+      "value": "614669",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "value": "26833093",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MZ",
+        "value": "Mozambique"
+      },
+      "value": "15981571",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MM",
+        "value": "Myanmar"
+      },
+      "value": "45329862",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NA",
+        "value": "Namibia"
+      },
+      "value": "1654214",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NP",
+        "value": "Nepal"
+      },
+      "value": "20587157",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NL",
+        "value": "Netherlands"
+      },
+      "value": "15459006",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NC",
+        "value": "New Caledonia"
+      },
+      "value": "193000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NZ",
+        "value": "New Zealand"
+      },
+      "value": "3673400",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NI",
+        "value": "Nicaragua"
+      },
+      "value": "4659458",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NE",
+        "value": "Niger"
+      },
+      "value": "9167078",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NG",
+        "value": "Nigeria"
+      },
+      "value": "108424827",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MP",
+        "value": "Northern Mariana Islands"
+      },
+      "value": "57518",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "NO",
+        "value": "Norway"
+      },
+      "value": "4359184",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "OM",
+        "value": "Oman"
+      },
+      "value": "2154600",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "value": "126689577",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PW",
+        "value": "Palau"
+      },
+      "value": "17255",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PA",
+        "value": "Panama"
+      },
+      "value": "2757004",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PG",
+        "value": "Papua New Guinea"
+      },
+      "value": "4715929",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "value": "4801834",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PE",
+        "value": "Peru"
+      },
+      "value": "23939261",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PH",
+        "value": "Philippines"
+      },
+      "value": "69606539",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "value": "38594998",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PT",
+        "value": "Portugal"
+      },
+      "value": "10026176",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PR",
+        "value": "Puerto Rico"
+      },
+      "value": "3683103",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "QA",
+        "value": "Qatar"
+      },
+      "value": "501154",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "RO",
+        "value": "Romania"
+      },
+      "value": "22684270",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "value": "148141000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "RW",
+        "value": "Rwanda"
+      },
+      "value": "5663838",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "WS",
+        "value": "Samoa"
+      },
+      "value": "170158",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SM",
+        "value": "San Marino"
+      },
+      "value": "25680",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ST",
+        "value": "Sao Tome and Principe"
+      },
+      "value": "130378",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SA",
+        "value": "Saudi Arabia"
+      },
+      "value": "18567343",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SN",
+        "value": "Senegal"
+      },
+      "value": "8711528",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "RS",
+        "value": "Serbia"
+      },
+      "value": "7738987",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SC",
+        "value": "Seychelles"
+      },
+      "value": "75304",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SL",
+        "value": "Sierra Leone"
+      },
+      "value": "3927105",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SG",
+        "value": "Singapore"
+      },
+      "value": "3524500",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SX",
+        "value": "Sint Maarten (Dutch part)"
+      },
+      "value": null,
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SK",
+        "value": "Slovak Republic"
+      },
+      "value": "5361999",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SI",
+        "value": "Slovenia"
+      },
+      "value": "1989872",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SB",
+        "value": "Solomon Islands"
+      },
+      "value": "359236",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SO",
+        "value": "Somalia"
+      },
+      "value": "6346440",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ZA",
+        "value": "South Africa"
+      },
+      "value": "39120000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SS",
+        "value": "South Sudan"
+      },
+      "value": "5434266",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "value": "39387017",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LK",
+        "value": "Sri Lanka"
+      },
+      "value": "18136000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "KN",
+        "value": "St. Kitts and Nevis"
+      },
+      "value": "42888",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "LC",
+        "value": "St. Lucia"
+      },
+      "value": "147040",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "MF",
+        "value": "St. Martin (French part)"
+      },
+      "value": "32712",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "VC",
+        "value": "St. Vincent and the Grenadines"
+      },
+      "value": "108122",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SD",
+        "value": "Sudan"
+      },
+      "value": "24529722",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SR",
+        "value": "Suriname"
+      },
+      "value": "435776",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SZ",
+        "value": "Swaziland"
+      },
+      "value": "963428",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SE",
+        "value": "Sweden"
+      },
+      "value": "8826939",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "CH",
+        "value": "Switzerland"
+      },
+      "value": "7040687",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "SY",
+        "value": "Syrian Arab Republic"
+      },
+      "value": "14338240",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TJ",
+        "value": "Tajikistan"
+      },
+      "value": "5784330",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TZ",
+        "value": "Tanzania"
+      },
+      "value": "29944302",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TH",
+        "value": "Thailand"
+      },
+      "value": "58983954",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TL",
+        "value": "Timor-Leste"
+      },
+      "value": "866700",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TG",
+        "value": "Togo"
+      },
+      "value": "4284497",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TO",
+        "value": "Tonga"
+      },
+      "value": "95928",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TT",
+        "value": "Trinidad and Tobago"
+      },
+      "value": "1255001",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "value": "8957500",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkey"
+      },
+      "value": "58522320",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TM",
+        "value": "Turkmenistan"
+      },
+      "value": "4188010",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TC",
+        "value": "Turks and Caicos Islands"
+      },
+      "value": "15334",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "TV",
+        "value": "Tuvalu"
+      },
+      "value": "9227",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "UG",
+        "value": "Uganda"
+      },
+      "value": "20740726",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "UA",
+        "value": "Ukraine"
+      },
+      "value": "51512299",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "AE",
+        "value": "United Arab Emirates"
+      },
+      "value": "2346305",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "GB",
+        "value": "United Kingdom"
+      },
+      "value": "58019030",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "value": "266278000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "UY",
+        "value": "Uruguay"
+      },
+      "value": "3224383",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "UZ",
+        "value": "Uzbekistan"
+      },
+      "value": "22785000",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "VU",
+        "value": "Vanuatu"
+      },
+      "value": "168236",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "VE",
+        "value": "Venezuela, RB"
+      },
+      "value": "22092144",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "VN",
+        "value": "Vietnam"
+      },
+      "value": "71995500",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "VI",
+        "value": "Virgin Islands (U.S.)"
+      },
+      "value": "107817",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "PS",
+        "value": "West Bank and Gaza"
+      },
+      "value": "2474666",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "YE",
+        "value": "Yemen, Rep."
+      },
+      "value": "15018201",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ZM",
+        "value": "Zambia"
+      },
+      "value": "8841338",
+      "decimal": "1",
+      "date": "1995"
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL",
+        "value": "Population, total"
+      },
+      "country": {
+        "id": "ZW",
+        "value": "Zimbabwe"
+      },
+      "value": "11639364",
+      "decimal": "1",
+      "date": "1995"
+    }
+  ]
+]
