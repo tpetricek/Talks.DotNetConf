@@ -57,6 +57,8 @@
     <None Include="credentials.fsx" />
     <None Include="TheWorld.Local.fsx" />
     <None Include="TheWorld.Cloud.fsx" />
+    <None Include="AzureStuff.fsx" />
+    <None Include="MBraceTheWorld.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
