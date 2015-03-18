@@ -1,69 +1,76 @@
-﻿(*** hide ***)
-#load "../packages/FsLab/FsLab.fsx"
+﻿#load "../packages/FsLab/FsLab.fsx"
 open FsLab
 open Deedle
 open Foogle
 open FSharp.Data
 
-(**
-Understanding the World with F#
-===============================
 
-This journal demonstrates how to generate elegant reports from your FsLab
-data analysis. In this demo, we use WorldBank type provider to obtain
-various information about countries, then we analyze the data using Deedle
-and we create a chart using Foogle Charts.
+/// Function that downloads one page of WorldBank data
+let getPage indCode year page = 
+  Http.RequestString
+    ( "http://api.worldbank.org/countries/all/indicators/" + indCode, 
+      query=[ "format", "json"; "date", sprintf "%d:%d" year year;
+              "per_page", "100"; "page", string page] )
 
-Population growth
------------------
-The following snippet reads population information in year 2000 and 2010 
-for all countries of the world into a data frame:
+// Generate type for parsing WorldBank responses
+type WB = JsonProvider<"http://api.worldbank.org/countries/all/indicators/SP.POP.TOTL?format=json&date=2000:2000&per_page=100">
 
-*)
+/// Download information for all countries in cloud 
+let getIndicator year indCode = 
+  let info = WB.Parse(getPage indCode year 1)
+  let series =
+    [ for p in 1 .. info.Record.Pages -> 
+        let page = WB.Parse(getPage indCode year p)
+        [ for d in page.Array -> 
+            d.Country.Value => Option.map float d.Value ]
+        |> Series.ofOptionalObservations ]
+  Series.mergeAll series 
+
 let wb = WorldBankData.GetDataContext()
+let world = wb.Countries.World.Indicators
 
-let pop2000 = series [ for c in wb.Countries -> c.Name, c.Indicators.``Population, total``.[2000] ]
-let pop2010 = series [ for c in wb.Countries -> c.Name, c.Indicators.``Population, total``.[2010] ]
-let all = 
-  frame [ "Pop2000" => round pop2000
-          "Pop2010" => round pop2010 ]
-(*** include-value:all ***)
+let pop2000 = getIndicator 2000 world.``Population, total``.IndicatorCode
+let pop2010 = getIndicator 2010 world.``Population, total``.IndicatorCode
 
-(**
-Now we can display the population in 2010 using a geo chart:
-*)
-(*** define-output: geo1 ***)
-Chart.GeoChart(all, "Pop2010")
-(*** include-it: geo1 ***)
+// ---------------------------------------
 
-(**
-This shows the expected results. More interestingly, we can calculate and 
-visualize the population growth between years 2000 and 2010:
-*)
-(*** define-output: geo2 ***)
-all?PopChange <- (all?Pop2010 - all?Pop2000) / all?Pop2010 * 100.0
-Chart.GeoChart(all, "PopChange")
-(*** include-it: geo2 ***)
+// HACKING - saving downloaded data
+let pages = System.Collections.Generic.Dictionary<int*string, string>()
 
-(**
-Indicator correlation
----------------------
+/// Download information for all countries in cloud 
+let getIndicatorH year indCode = 
+  let info = WB.Parse(getPage indCode year 1)
+  let array =
+   [| for p in 1 .. info.Record.Pages do
+        let page = WB.Parse(getPage indCode year p)
+        for a in  page.Array do yield a.JsonValue |] |> JsonValue.Array
+  let merged = JsonValue.Array [| info.Record.JsonValue; array |]
+  pages.[ (year, indCode) ] <- merged.ToString()
 
-Another interesting thing we can do is to look at correlation between 
-different indicators that we can get from the WorldBank. The following
-snippet adds GDP, GDP growth, carbon emissions and gender equality 
-indicators:
-*)
-let small = all |> Frame.dropCol "Pop2010" |> Frame.dropCol "Pop2000"
-small?GDP <- [ for c in wb.Countries -> c.Indicators.``GDP (current US$)``.[2000] ]
-small?Growth <- [ for c in wb.Countries -> c.Indicators.``GDP per capita growth (annual %)``.[2000] ]
-small?Emissions <- [ for c in wb.Countries -> c.Indicators.``CO2 emissions (kg per PPP $ of GDP)``.[2000] ]
-small?Gender <- [ for c in wb.Countries -> c.Indicators.``Employment to population ratio, 15+, female (%) (modeled ILO estimate)``.[2000] ]
-(**
-To display the correlation, we can use the `plot` function from R using
-the R type provider
-*)
-(*** define-output: cor ***)
-open RProvider.graphics
-R.plot(small)
-(*** include-output: cor ***)
+// HACKING - download "big data"
+for y in 1990 .. 2010 do
+  printfn "year = %d" y
+  getIndicatorH y world.``Population, total``.IndicatorCode
+  |> ignore
+
+// HACKING - save big data to files
+for (KeyValue((y,code),v)) in pages do
+  let dn = sprintf @"C:\Tomas\Materials\Workyard\Talks.DotNetConf\workyard\data\%s" code
+  try System.IO.Directory.CreateDirectory(dn) |> ignore with _ -> ()
+  let fn = sprintf @"C:\Tomas\Materials\Workyard\Talks.DotNetConf\workyard\data\%s\%d.json" code y
+  System.IO.File.WriteAllText(fn, v)
+
+// ---------------------------------------
+
+let fromCloud = WB.Load(@"C:\Tomas\Materials\Workyard\Talks.DotNetConf\workyard\data\SP.POP.TOTL\1995.json")
+fromCloud.Record.Total
+fromCloud.Array |> Seq.length
+
+// ---------------------------------------
+
+Chart.GeoChart(Series.observations pop2000)
+
+let change = (pop2010 - pop2000) / pop2010 * 100.0
+
+Chart.GeoChart(Series.observations change)
+
