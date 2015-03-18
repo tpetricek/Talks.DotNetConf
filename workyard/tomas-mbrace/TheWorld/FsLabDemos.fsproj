@@ -59,6 +59,7 @@
     <None Include="TheWorld.Cloud.fsx" />
     <None Include="AzureStuff.fsx" />
     <None Include="MBraceTheWorld.fsx" />
+    <None Include="PopulateTables.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />

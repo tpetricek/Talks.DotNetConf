@@ -35,8 +35,8 @@ let numbers =
     [| 1..100 |]
     |> CloudStream.ofArray
     |> CloudStream.map (fun num -> num * num)
-    |> CloudStream.filter (fun num -> num < 2500)
-    |> CloudStream.countBy (fun num -> if num % 2 = 0 then "Even" else "Odd")
+    |> CloudStream.filter (fun square -> square < 2500)
+    |> CloudStream.countBy (fun square -> if square % 2 = 0 then "Even" else "Odd")
     |> CloudStream.toArray
     |> cluster.Run
 
