@@ -97,5 +97,5 @@ let gdp2010 =
 
 Chart.GeoChart(Series.observations gdp2010)
 
-let gdpChange = (gdp2010 - gdp2010) / gdp2010 * 100.0
+let gdpChange = (gdp2010 - gdp2000) / gdp2010 * 100.0
 Chart.GeoChart(Series.observations gdpChange)
