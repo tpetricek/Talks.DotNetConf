@@ -50,7 +50,7 @@ let getIndicatorH year indCode =
 // HACKING - download "big data"
 for y in 1990 .. 2010 do
   printfn "year = %d" y
-  getIndicatorH y world.``Population, total``.IndicatorCode
+  getIndicatorH y world.``School enrollment, tertiary (% gross)``.IndicatorCode
   |> ignore
 
 // HACKING - save big data to files
@@ -74,3 +74,19 @@ let change = (pop2010 - pop2000) / pop2010 * 100.0
 
 Chart.GeoChart(Series.observations change)
 
+// TODO: Isaac - Change this to WB.Parse(Azure.something.ReadFile())
+// TODO: Tomas - see if we can find another interestin indicator with data
+let gdp2000data = WB.Load(@"C:\Tomas\Materials\Workyard\Talks.DotNetConf\workyard\data\SP.POP.TOTL\2000.json")
+let gdp2010data = WB.Load(@"C:\Tomas\Materials\Workyard\Talks.DotNetConf\workyard\data\SP.POP.TOTL\2010.json")
+
+let gdp2000 =
+  [ for d in gdp2000data.Array -> d.Country.Value => Option.map float d.Value ]
+  |> Series.ofOptionalObservations
+let gdp2010 =
+  [ for d in gdp2010data.Array -> d.Country.Value => Option.map float d.Value ]
+  |> Series.ofOptionalObservations
+
+Chart.GeoChart(Series.observations gdp2010)
+
+let gdpChange = (gdp2010 - gdp2010) / gdp2010 * 100.0
+Chart.GeoChart(Series.observations gdpChange)
