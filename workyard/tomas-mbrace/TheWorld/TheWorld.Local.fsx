@@ -20,6 +20,8 @@ let getIndicator year indCode =
   let info = WB.Parse(getPage indCode year 1)
   let series =
     [ for p in 1 .. info.Record.Pages -> 
+        let fn = sprintf @"C:\Tomas\Materials\Workyard\Talks.DotNetConf\workyard\data\%s_%d_%d.json" indCode year p
+        System.IO.File.WriteAllText(fn, getPage indCode year p)
         let page = WB.Parse(getPage indCode year p)
         [ for d in page.Array -> 
             d.Country.Value => Option.map float d.Value ]
