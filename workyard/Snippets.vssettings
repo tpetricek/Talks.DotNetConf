@@ -1,0 +1,45 @@
+<UserSettings><ApplicationIdentity version="12.0"/><ToolsOptions/><Category name="Environment_Group" RegisteredName="Environment_Group"><Category name="Environment_Toolbox" Category="{481999F2-7479-4e03-83D5-BE808BA142DF}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Toolbox" PackageName="Visual Studio Environment Package"><PropertyValue name="ShowAllTabs">false</PropertyValue><PropertyValue name="Version">1</PropertyValue><PropertyValue name="DeletedTabCount">0</PropertyValue><PropertyValue name="Tab0.ID">1 Weather</PropertyValue><PropertyValue name="Tab0.Name">1 Weather</PropertyValue><PropertyValue name="Tab0.View">0</PropertyValue><PropertyValue name="Tab0.UseDefaultName">false</PropertyValue><PropertyValue name="Tab0.RecordType">1</PropertyValue><PropertyValue name="Tab0.Position">55</PropertyValue><PropertyValue name="Tab0.OriginalName">1 Weather</PropertyValue><PropertyValue name="Tab1.ID">2 World</PropertyValue><PropertyValue name="Tab1.Name">2 World</PropertyValue><PropertyValue name="Tab1.View">0</PropertyValue><PropertyValue name="Tab1.UseDefaultName">false</PropertyValue><PropertyValue name="Tab1.RecordType">1</PropertyValue><PropertyValue name="Tab1.Position">56</PropertyValue><PropertyValue name="Tab1.OriginalName">2 World</PropertyValue><PropertyValue name="TabCount">2</PropertyValue><PropertyValue name="DeletedItemCount">0</PropertyValue><PropertyValue name="Item0.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item0.ID">05E5295B511E9C2B00E80468D24D8A4A</PropertyValue><PropertyValue name="Item0.Name">Text: #r @"packages\FSharp.Data.2.1.1\lib\net40\fsharp.data.dll"
+open FSharp.Data
+</PropertyValue><PropertyValue name="Item0.UseDefaultName">true</PropertyValue><PropertyValue name="Item0.Tab">1 Weather</PropertyValue><PropertyValue name="Item0.TabID">1 Weather</PropertyValue><PropertyValue name="Item0.OriginalTabID">General</PropertyValue><PropertyValue name="Item0.OriginalTab">General</PropertyValue><PropertyValue name="Item0.RecordType">1</PropertyValue><PropertyValue name="Item0.Data">#r @"packages\FSharp.Data.2.1.1\lib\net40\fsharp.data.dll"
+open FSharp.Data
+</PropertyValue><PropertyValue name="Item0.Position">1</PropertyValue><PropertyValue name="Item1.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item1.ID">9ED6D173A2E45C21BD818F000616CEC3</PropertyValue><PropertyValue name="Item1.Name">Text: let url = "http://api.openweathermap.org/data/2.5/weather?units=metric&amp;q="
+</PropertyValue><PropertyValue name="Item1.UseDefaultName">true</PropertyValue><PropertyValue name="Item1.Tab">1 Weather</PropertyValue><PropertyValue name="Item1.TabID">1 Weather</PropertyValue><PropertyValue name="Item1.OriginalTabID">General</PropertyValue><PropertyValue name="Item1.OriginalTab">General</PropertyValue><PropertyValue name="Item1.RecordType">1</PropertyValue><PropertyValue name="Item1.Data">let url = "http://api.openweathermap.org/data/2.5/weather?units=metric&amp;q="
+</PropertyValue><PropertyValue name="Item1.Position">2</PropertyValue><PropertyValue name="Item2.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item2.ID">AB95EA8580D61B893579386360AE31D8</PropertyValue><PropertyValue name="Item2.Name">Text: let getPage indCode year page = 
+  Http.RequestString
+    ( "http://api.worldbank.org/countries/all/indicators/" + indCode, 
+      query=[ "format", "json"; "date", sprintf "%d:%d" year year;
+              "per_page", "100"; "page", string page] )
+</PropertyValue><PropertyValue name="Item2.UseDefaultName">true</PropertyValue><PropertyValue name="Item2.Tab">2 World</PropertyValue><PropertyValue name="Item2.TabID">2 World</PropertyValue><PropertyValue name="Item2.OriginalTabID">2 World</PropertyValue><PropertyValue name="Item2.OriginalTab">2 World</PropertyValue><PropertyValue name="Item2.RecordType">1</PropertyValue><PropertyValue name="Item2.Data">let getPage indCode year page = 
+  Http.RequestString
+    ( "http://api.worldbank.org/countries/all/indicators/" + indCode, 
+      query=[ "format", "json"; "date", sprintf "%d:%d" year year;
+              "per_page", "100"; "page", string page] )
+</PropertyValue><PropertyValue name="Item2.Position">1</PropertyValue><PropertyValue name="Item3.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item3.ID">EA597D4B6F5F6D06332817561EB3119A</PropertyValue><PropertyValue name="Item3.Name">Text: let getIndicator year indCode = seq {
+  let info = WB.Parse(getPage indCode year 1)
+  for p in 1 .. info.Record.Pages do 
+    let page = WB.Parse(getPage indCode year p)
+    for d in page.Array do 
+      match d.Value with
+      | Some v when v &lt; 1500000000L -&gt; 
+          yield d.Country.Value =&gt; float v
+      | _ -&gt; () }</PropertyValue><PropertyValue name="Item3.UseDefaultName">true</PropertyValue><PropertyValue name="Item3.Tab">2 World</PropertyValue><PropertyValue name="Item3.TabID">2 World</PropertyValue><PropertyValue name="Item3.OriginalTabID">2 World</PropertyValue><PropertyValue name="Item3.OriginalTab">2 World</PropertyValue><PropertyValue name="Item3.RecordType">1</PropertyValue><PropertyValue name="Item3.Data">let getIndicator year indCode = seq {
+  let info = WB.Parse(getPage indCode year 1)
+  for p in 1 .. info.Record.Pages do 
+    let page = WB.Parse(getPage indCode year p)
+    for d in page.Array do 
+      match d.Value with
+      | Some v when v &lt; 1500000000L -&gt; 
+          yield d.Country.Value =&gt; float v
+      | _ -&gt; () }</PropertyValue><PropertyValue name="Item3.Position">2</PropertyValue><PropertyValue name="Item4.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item4.ID">2B5004F94AD7387CAE2861BD5991DE74</PropertyValue><PropertyValue name="Item4.Name">Text: 
+let wb2000 = series(getIndicator 2000 indCode)
+let wb2010 = series(getIndicator 2010 indCode)
+Chart.GeoChart(Series.observations wb2000)
+</PropertyValue><PropertyValue name="Item4.UseDefaultName">true</PropertyValue><PropertyValue name="Item4.Tab">2 World</PropertyValue><PropertyValue name="Item4.TabID">2 World</PropertyValue><PropertyValue name="Item4.OriginalTabID">2 World</PropertyValue><PropertyValue name="Item4.OriginalTab">2 World</PropertyValue><PropertyValue name="Item4.RecordType">1</PropertyValue><PropertyValue name="Item4.Data">
+let wb2000 = series(getIndicator 2000 indCode)
+let wb2010 = series(getIndicator 2010 indCode)
+Chart.GeoChart(Series.observations wb2000)
+</PropertyValue><PropertyValue name="Item4.Position">3</PropertyValue><PropertyValue name="Item5.DataProvider">{0A057BAD-6706-45D2-A800-683A29EC6BA3}</PropertyValue><PropertyValue name="Item5.ID">80683BB329D88C73CD01ECC6E866FFE3</PropertyValue><PropertyValue name="Item5.Name">Text: let wbChange = (wb2010 - wb2000) / wb2010 * 100.0
+Chart.GeoChart(Series.observations wbChange)
+</PropertyValue><PropertyValue name="Item5.UseDefaultName">true</PropertyValue><PropertyValue name="Item5.Tab">2 World</PropertyValue><PropertyValue name="Item5.TabID">2 World</PropertyValue><PropertyValue name="Item5.OriginalTabID">2 World</PropertyValue><PropertyValue name="Item5.OriginalTab">2 World</PropertyValue><PropertyValue name="Item5.RecordType">1</PropertyValue><PropertyValue name="Item5.Data">let wbChange = (wb2010 - wb2000) / wb2010 * 100.0
+Chart.GeoChart(Series.observations wbChange)
+</PropertyValue><PropertyValue name="Item5.Position">4</PropertyValue><PropertyValue name="ItemCount">6</PropertyValue></Category></Category></UserSettings>
