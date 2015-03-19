@@ -13,15 +13,13 @@ cluster.ShowWorkers()
 
 
 // It's easy to lift work into the cloud.
-let helloWorld = 2 + 2
+let addNumbers = 2 + 2
 
-let helloWorldAsync = async { return 2 + 2 }
-helloWorldAsync |> Async.RunSynchronously
+let addNumbersAsync = async { return 2 + 2 }
+addNumbersAsync |> Async.RunSynchronously
 
-let helloWorldCloud = cloud { return 2 + 2 }
-helloWorldCloud |> cluster.Run
-
-
+let addNumbersCloud = cloud { return 2 + 2 }
+addNumbersCloud |> cluster.Run
 
 // Parallelise multiple jobs at once!
 let lotsOfWorkflows =
@@ -39,6 +37,7 @@ let numbers =
     |> CloudStream.countBy (fun square -> if square % 2 = 0 then "Even" else "Odd")
     |> CloudStream.toArray
     |> cluster.Run
+
 
 
 

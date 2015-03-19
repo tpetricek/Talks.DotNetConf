@@ -76,16 +76,12 @@ let change = (pop2010 - pop2000) / pop2010 * 100.0
 
 Chart.GeoChart(Series.observations change)
 
-// TODO: Isaac - Change this to WB.Parse(Azure.something.ReadFile())
 // TODO: Tomas - see if we can find another interestin indicator with data
 
 #load @"..\packages\FSharp.Azure.StorageTypeProvider\StorageTypeProvider.fsx"
 open FSharp.Azure.StorageTypeProvider
 type Azure = AzureTypeProvider< "UseDevelopmentStorage=true", "">
 
-
-let gdp2000data = WB.Load(@"C:\Tomas\Materials\Workyard\Talks.DotNetConf\workyard\data\SP.POP.TOTL\2000.json")
-let gdp2010data = WB.Load(@"C:\Tomas\Materials\Workyard\Talks.DotNetConf\workyard\data\SP.POP.TOTL\2010.json")
 
 let gdp2000data = WB.Parse <| Azure.Containers.dotnetconf.``SP.POP.TOTL/``.``2000.json``.ReadAsString()
 let gdp2010data = WB.Parse <| Azure.Containers.dotnetconf.``SP.POP.TOTL/``.``2010.json``.ReadAsString()
